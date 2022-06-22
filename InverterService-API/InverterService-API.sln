@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InverterService-API", "InverterService-API.csproj", "{5D642AEF-DDE9-46FD-BAA4-0CB9E77F002E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inverter-ConsoleApp", "..\Inverter-ConsoleApp\Inverter-ConsoleApp.csproj", "{EA3ED5DB-EAF6-4B9A-B3C7-58676F76076D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D642AEF-DDE9-46FD-BAA4-0CB9E77F002E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D642AEF-DDE9-46FD-BAA4-0CB9E77F002E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D642AEF-DDE9-46FD-BAA4-0CB9E77F002E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D642AEF-DDE9-46FD-BAA4-0CB9E77F002E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA3ED5DB-EAF6-4B9A-B3C7-58676F76076D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA3ED5DB-EAF6-4B9A-B3C7-58676F76076D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA3ED5DB-EAF6-4B9A-B3C7-58676F76076D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA3ED5DB-EAF6-4B9A-B3C7-58676F76076D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD0888D5-66A9-4E94-98DB-12E44A220AD6}
+	EndGlobalSection
+EndGlobal
